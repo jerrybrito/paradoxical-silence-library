@@ -1,0 +1,2 @@
+# Requires: deprecated-waiting
+# (Not available on PyPI)
